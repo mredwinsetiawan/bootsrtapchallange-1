@@ -1,0 +1,25 @@
+.bg-petanikode {
+    background: #563D7C;
+}
+
+.card-post.card-deck .card {
+    margin-bottom: 1.5em !important;
+}
+
+.card-post-link, .card-post-link:hover {
+    text-decoration: none;
+}
+
+.widget {
+    margin-bottom: 1.5em !important;
+}
+.card{
+  margin-left: 0em !important;
+}
+.purple{
+   color: #563D7C;
+}
+.warning{
+  color: #F9DD83 !important;
+
+}
